@@ -4,4 +4,4 @@
 ❗️ 아이폰은 '사파리', 안드로이드는 '크롬'으로 접속해야 앱 설치가 가능합니다! ❗️  
 **[공주대처럼 설치하러 가기](https://like-knu.vercel.app)**
 
-![공주대처럼](https://github.com/LikeKNU/.github/assets/69714701/b85e8777-386b-4aca-8326-2e0c2ceddc6e)
+![공주대처럼](https://github.com/LikeKNU/.github/assets/69714701/90b2483d-0964-4051-ad93-308f2ee4bf2c)
