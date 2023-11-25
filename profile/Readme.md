@@ -76,7 +76,7 @@ Android (안드로이드는 곧 플레이스토어에 앱이 출시됩니다!)
 
 ### System Architecture
 
-![System Architecture](https://github.com/LikeKNU/.github/assets/69714701/07316780-30d5-46ec-819b-e8dd554833c7)
+![System Architecture](https://github.com/LikeKNU/.github/assets/69714701/0fe21330-7475-4d55-a4a7-f8bd8fec8cdd)
 
 ### 🙋🏻 Members
 
