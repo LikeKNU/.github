@@ -7,7 +7,7 @@
 <img src="https://github.com/FREEWAYseoul/.github/assets/69714701/39e1ddf2-9947-4dc2-884a-c80bdf6e4b85" width="20px" alt="#"/>**[iOS 다운로드](https://apps.apple.com/kr/app/id6499512208)**   
 <img src="https://github.com/FREEWAYseoul/.github/assets/69714701/0dfec54f-81d6-4f9b-97ee-8c17e142189e" width="20px" alt="#"/>**[Android 다운로드](https://play.google.com/store/apps/details?id=ac.knu.likeknu)**   
 
-![공주대처럼](https://github.com/LikeKNU/.github/assets/69714701/90b2483d-0964-4051-ad93-308f2ee4bf2c)
+![앱 클립](https://github.com/LikeKNU/.github/assets/69714701/e16bfaa6-dc3e-471b-b3b6-158237affeab)
 
 ## 프로젝트 소개
 
